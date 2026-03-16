@@ -1,6 +1,6 @@
 # How It feels Learning cyber-sec:
 <p align="center">
-  <img src="Exhau.gif" width="700">
+  <img src="Exhau.gif" width="200">
 </p>
 
 # 💫 About Me:

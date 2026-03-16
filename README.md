@@ -1,6 +1,6 @@
-# How It feels Learning cyber-sec:
+#Mind State:
 <p align="center">
-  <img src="Exhau.gif" width="700" height="300">
+  <img src="Exhau.gif" width="800" height="500">
 </p>
 
 # 💫 About Me:

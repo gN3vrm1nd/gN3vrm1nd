@@ -1,6 +1,6 @@
 # How It feels Learning cyber-sec:
 <p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2eb7dc4928685844.gif" width="600">
+  <img src="https://i.imgur.com/lRaDj98.gif" width="700">
 </p>
 
 # 💫 About Me:

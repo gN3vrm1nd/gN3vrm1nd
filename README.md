@@ -1,4 +1,4 @@
-#Mind State:
+# Mind State:
 <p align="center">
   <img src="Exhau.gif" width="800" height="500">
 </p>
